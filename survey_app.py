@@ -9,8 +9,6 @@
 # - Built-in SQLite database
 # - Teachable Machine integration
 # ============================================================================
-# https://teachablemachine.withgoogle.com/models/P3-HT5rh8/
-
 
 import streamlit as st
 import pandas as pd
