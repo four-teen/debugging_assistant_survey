@@ -1,10 +1,3 @@
-import streamlit as st
-import tensorflow as tf
-import numpy as np
-from PIL import Image
-import requests
-import io
-
 st.set_page_config(page_title="Teachable Machine Webcam App", layout="centered")
 
 st.title("🤖 Teachable Machine Image Model (Streamlit Version)")
